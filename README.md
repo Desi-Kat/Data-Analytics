@@ -39,7 +39,7 @@ By defining the maximum average discount rate and the minimum profit ratio, I wa
 
 <img width="1487" height="838" alt="image" src="https://github.com/user-attachments/assets/0d8b7726-4e6d-4fdd-b43c-84e5e021e14a" />
 
-LINK to File:
+LINK to File: https://github.com/Desi-Kat/Data-Analytics/blob/2c01b24d34a32be5588f64ce29ed1cbc9280d79b/Countries.pbix 
 
 **Description:**
 
