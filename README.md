@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics Portfolio - Desislava Katelieva
 
 **1. Power BI Sales Performance Analysis**
 
@@ -67,11 +67,11 @@ Two datasets were used and cleaned in PowerQuery
 **Conclusions:**
 The dashboard enables the user to interact with the visuals and view sales data across various sales regions and analyse performance by year and quarter which will potentially enable data-informed decisions on where to focus marketing efforts.
 
-**Work-Based Projects**
+**3. Work-Based Projects**
 
    **Data Analytics Learner Analysis**
 
-I oversee the reporting for Data Analytics training and use the Learner Analysis to track and present progress. In collaboration with my team of Data Analytics trainers, the dashboards below were created to inform actions and drive quality of our programmes.
+**Description:** I oversee the reporting for Data Analytics training and use the Learner Analysis to track and present progress. In collaboration with my team of Data Analytics trainers, the dashboards below were created to inform actions and drive quality of our programmes.
 
 <img width="1451" height="818" alt="image" src="https://github.com/user-attachments/assets/ca5b68f3-26bc-4f4b-a332-b1972e7f94c5" />
 
