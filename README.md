@@ -34,3 +34,35 @@ There were 6 data sets used and data was transformed to ensure relevant columns 
 **Conclusions:**
 
 By defining the maximum average discount rate and the minimum profit ratio, I was able to sort the employees into Low, Medium and High performance. By using measures to assign colour, I was able to visually represent this.
+
+**2. Power BI Total Sales Excluding Tax**
+
+<img width="1487" height="838" alt="image" src="https://github.com/user-attachments/assets/0d8b7726-4e6d-4fdd-b43c-84e5e021e14a" />
+
+LINK to File:
+
+**Description:**
+
+Report on sales and demonstrate annual sales and geographical distribution over 4 consecutive years.
+
+**Technologies:**
+Power BI
+
+**Dataset:**
+
+Two datasets were used and cleaned in PowerQuery
+<img width="817" height="767" alt="image" src="https://github.com/user-attachments/assets/667b571d-f4da-463d-8b4c-d10d76112a53" />
+
+**Task List:**
+
+- Get data
+- Clean and transform data
+- Create a map visual
+- Create charts
+- Enable drill mode and expand hierarchy so that visuals can update
+- For regular updates - uploading a new dataset in the storage folder will allow automatic update to the dashboards without performing data transformation again.
+
+<img width="1357" height="770" alt="image" src="https://github.com/user-attachments/assets/16a5929b-7584-457b-ac1b-1b204ef3ddbb" />
+
+**Conclusions:**
+The dashboard enables the user to interact with the visuals and view sales data across various sales regions and analyse performance by year and quarter which will potentially enable data-informed decisions on where to focus marketing efforts.
