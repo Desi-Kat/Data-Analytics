@@ -80,3 +80,9 @@ The dashboard enables the user to interact with the visuals and view sales data 
 <img width="1455" height="820" alt="image" src="https://github.com/user-attachments/assets/d4e45f96-876a-4b41-b0fb-3508ba11b7dd" />
 
 <img width="762" height="363" alt="image" src="https://github.com/user-attachments/assets/b86c0856-01d4-4faf-88ec-3cf5ee15a119" />
+
+
+**4. Excel Pivot Tables**
+
+Conditional formatting and Slicers used to demonstrate Sales amounts per gender and age.
+<img width="963" height="571" alt="image" src="https://github.com/user-attachments/assets/2ed3a011-14f7-4bf6-bcf1-d1709aa5f103" />
