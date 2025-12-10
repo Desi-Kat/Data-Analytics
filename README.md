@@ -86,3 +86,14 @@ The dashboard enables the user to interact with the visuals and view sales data 
 
 Conditional formatting and Slicers used to demonstrate Sales amounts per gender and age.
 <img width="963" height="571" alt="image" src="https://github.com/user-attachments/assets/2ed3a011-14f7-4bf6-bcf1-d1709aa5f103" />
+
+**5. Tableau Dashboards**
+
+**Global Health Dashboard** https://public.tableau.com/views/GlobalHealthDashboard_17652822015400/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+<img width="1020" height="772" alt="image" src="https://github.com/user-attachments/assets/6d6e910b-4a8b-4675-b45c-4a8fdce45180" />
+
+**Employment Change Data UK** https://public.tableau.com/views/Employmentchange_17652049122590/GBEmploymentDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+<img width="1677" height="781" alt="image" src="https://github.com/user-attachments/assets/40691dc6-794f-4c6b-be9f-180cfa5aee98" />
+
+**Spotify Genres Dashboard** https://public.tableau.com/views/SpotifyGenresDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+<img width="947" height="782" alt="image" src="https://github.com/user-attachments/assets/7898c079-a09e-4c2f-a27e-319570c55f4b" />
